@@ -1,0 +1,29 @@
+
+html {
+
+height:100%;
+	
+}
+
+body{
+
+height:100%;
+	
+}
+
+#side{
+	float:left;
+	background-color:#dddddd;
+	width:15%;
+	height:100%;
+	padding-top:2%;
+	padding-bottom:2%;
+	
+	}
+	
+#main{
+	float:right;
+	background-color:#ffffff;
+	width:85%;
+	}
+	
