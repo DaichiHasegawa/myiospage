@@ -8,12 +8,13 @@ height:100%;
 body{
 
 height:100%;
+background-color:#ffffff;
 	
 }
 
 #side{
 	float:left;
-	background-color:#dddddd;
+	background-color:#aaaaaa;
 	width:15%;
 	height:100%;
 	padding-top:2%;
@@ -22,8 +23,56 @@ height:100%;
 	}
 	
 #main{
-	float:right;
-	background-color:#ffffff;
+	
+	float:left;
 	width:85%;
+	height:100%;
 	}
+	
+p{
+	color:#aaaaaa;
+		
+	}
+	
+	#title_text{
+		
+		background-color:#dfdfdf;
+		height:130px;
+		padding-top:10px;
+		
+	}
+	
+#main_title{
+		color:#fdfdfd;
+		
+	}
+	#allbody{
+		height:100%;
+		
+	}
+	#contents{
+	
+	height:100%;	
+	margin-bottom:100px;
+	}
+	
+	#footer{
+		height:5%;
+	
+	}
+	
+	h2{
+		height:70px;
+	background-color:#000000;
+	color:#ffffff;
+		
+	}
+	
+#white_text {
+    color : #ffffff;
+    background-color:#000000;
+
+	
+	
+}
 	
